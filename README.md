@@ -1,14 +1,3 @@
----
-title: PriceFinder AI
-emoji: 🛍️
-colorFrom: blue
-colorTo: red
-sdk: gradio
-sdk_version: 5.9.0
-app_file: app.py
-python_version: "3.10"
-pinned: false
----
 
 # PriceFinder AI 🛍️
 
