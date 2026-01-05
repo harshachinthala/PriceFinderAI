@@ -59,6 +59,30 @@ A Dynamic RAG application that helps users find the best prices and sellers for 
      - "Best price for Sony WH-1000XM5"
      - "Who sells Samsung Galaxy S24 Ultra?"
 
+## 🌐 Deployment
+
+### Deploy to Render (Free)
+
+1. **Create a new Web Service** on [Render](https://render.com)
+2. **Connect your GitHub repository**
+3. **Configure**:
+   - Build Command: `pip install -r requirements.txt`
+   - Start Command: `gunicorn app:app`
+4. **Deploy!**
+
+### Deploy to Railway (Free)
+
+1. **Create a new project** on [Railway](https://railway.app)
+2. **Deploy from GitHub**
+3. Railway will auto-detect the Procfile and deploy
+
+### Deploy to Hugging Face Spaces
+
+1. **Create a new Space** on [Hugging Face](https://huggingface.co/spaces)
+2. **Choose "Gradio" SDK** (or convert to Gradio)
+3. **Upload files** and deploy
+
+
 ## How it Works
 
 1. **Query**: The user asks a question.
