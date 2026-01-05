@@ -3,6 +3,22 @@
 
 A Dynamic RAG application that helps users find the best prices and sellers for products by combining an internal knowledge base with real-time web search.
 
+Demo Link: https://huggingface.co/spaces/harshachinthala/PriceFinderAI
+
+### 🧠 Tech Stack & Skills
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![LLM](https://img.shields.io/badge/LLM-OpenAI-black)
+![Dynamic%20RAG](https://img.shields.io/badge/Dynamic%20RAG-Enabled-purple)
+![LangChain](https://img.shields.io/badge/LangChain-Orchestration-green)
+![VectorDB](https://img.shields.io/badge/VectorDB-ChromaDB-orange)
+![Embeddings](https://img.shields.io/badge/Embeddings-Text%20Embeddings-red)
+![Web%20Search](https://img.shields.io/badge/Web%20Search-Serper%20API-blueviolet)
+![Price%20Comparison](https://img.shields.io/badge/Price%20Comparison-Automated-success)
+![Gradio](https://img.shields.io/badge/Gradio-UI-yellow)
+![Deployment](https://img.shields.io/badge/Deployment-HuggingFace%20%7C%20Render-lightgrey)
+
+
 ## Features
 
 - **Internal Knowledge Base**: Stores product specs and seller details (in `data/`).
